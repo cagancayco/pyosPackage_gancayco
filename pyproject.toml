@@ -12,10 +12,10 @@ requires = ["hatchling"]
 
 [project]
 name = "pyospackage_gancayco"
-# You can chose to use dynamic versioning with hatch or static where you add it manually.
+# You can choose to use dynamic versioning with hatch or static where you add it manually.
 version = "0.1.0"
 
-description = "A package that does cool things"
+description = "A package that does cool things like adding and subtracting."
 authors = [
     { name = "Christina Gancayco", email = "gancayco@stanford.edu" },
 ]
